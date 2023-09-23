@@ -4,5 +4,6 @@ public class Concat {
         String lastname = "Smith";
         String concatonate = (firstname + " " + lastname);
         System.out.println(concatonate);
+        System.out.println(firstname.concat(lastname));
     }
 }

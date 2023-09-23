@@ -5,5 +5,11 @@ public class Concat {
         String concatonate = (firstname + " " + lastname);
         System.out.println(concatonate);
         System.out.println(firstname.concat(lastname));
+
+        /* WARNING!
+
+Java uses the + operator for both addition and concatenation.
+
+Numbers are added. Strings are concatenated.  */
     }
 }

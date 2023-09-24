@@ -15,5 +15,8 @@ public class MathEquations{
 
         //a random number between 0 and 1
         System.out.println(Math.random());
+
+        // random number between 0 and 100
+        int randomNum = (int)(Math.random() * 101);  // 0 to 100
     }
 }

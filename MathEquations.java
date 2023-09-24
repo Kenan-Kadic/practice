@@ -11,7 +11,7 @@ public class MathEquations{
         System.out.println(Math.sqrt(6.5));
 
         // The absolute positive value
-        System.out.println(Math.abs(-7));
+        System.out.println(Math.abs(-7.7));
 
         //a random number between 0 and 1
         System.out.println(Math.random());
